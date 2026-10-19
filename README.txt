@@ -1,9 +1,7 @@
 Metal Gear Solid for Mac (unofficial)
 =====================================
 
-**[Download MacOS Patch]**
-
-https://github.com/pepeforfun/mgs1_macos_patch/releases/download/Release/mgs_macos_patch.zip
+**[Download MacOS Patch](https://github.com/pepeforfun/mgs1_macos_patch/releases/download/Release/mgs_macos_patch.zip/)**
 
 Plays the GOG PC version of Metal Gear Solid and its VR Missions natively on a Mac: no Windows,
 Wine, CrossOver or emulator. The game's Windows program is translated into native Apple Silicon
