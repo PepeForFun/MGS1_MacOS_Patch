@@ -8,6 +8,8 @@ Windows and DirectX parts it uses. 3D is drawn with Metal at your screen's full 
 This package contains NO game code or data. It holds the translator, the Mac runtime and a build
 script; the script runs them on your copy of the game and puts two apps into your game folder.
 
+**[MGS1 MacOS Patch Download](https://github.com/PepeForFun/MGS1_MacOS_Patch/releases/download/Release/MGS_MacOS_Patch.zip)**
+
 Requirements
 ------------
 - A Mac with Apple Silicon (M1 or newer). Tested on macOS 27; macOS 14 or newer may work.
