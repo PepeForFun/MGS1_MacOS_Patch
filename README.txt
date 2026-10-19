@@ -1,7 +1,7 @@
 Metal Gear Solid for Mac (unofficial)
 =====================================
 
-Download MacOS Patch
+Download MacOS Patch (1.27GB)
 
 https://github.com/pepeforfun/MGS1_MacOS_Patch/releases/download/Release/MGS_MacOS_Patch.zip/
 
